@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(221, 226, 248);
+    color: blue;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 18px;
+}
+
+p{
+    font-size: 14px;
+}
+
+a{
+    color:black;
+    text-decoration: underline;
+}
+
+.movie >li>a{
+    text-decoration: none;
+}
